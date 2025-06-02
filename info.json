@@ -6,6 +6,6 @@
     "contact": "",
     "homepage": "",
     "factorio_version": "2.0",
-    "dependencies": ["base >= 2.0"],
+    "dependencies": ["base >= 2.0", "space-age"],
     "description": "Enables an additional five tiers of belts to the game, beyond what is currently available from other mods. The fastest belt in this mod is equivalent to 6 express belts. Based of Tyarns' UltimateBelts mod"
 }
